@@ -1,2 +1,0 @@
-# Payka
-App Payka
