@@ -1,8 +1,0 @@
-{
-  "name": "seng",
-  "app_id": "f2b10a50",
-  "type": "ionic-angular",
-  "integrations": {
-    "cordova": {}
-  }
-}
